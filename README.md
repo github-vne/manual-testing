@@ -1,5 +1,5 @@
 # Ручное тестирование раздела “Визовые приглашения”
-[Список багов](BUGS.md)
+[Список багов](BUGS.md#Lists)
 ### 1. Заказ приглашения в Россию
 > Изменение цены в Туристической визе
 1. Открыть ссылку https://preview-broken-in-u5auzt.bronevik.com/ru/info/russian-visa-invitation/
